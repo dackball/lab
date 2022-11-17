@@ -2,7 +2,7 @@
 scanf() 함수
    데이터 입력에 사용되는 함수
 */
-#define _CRT_SECURE_NO_WAR
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main(void)
