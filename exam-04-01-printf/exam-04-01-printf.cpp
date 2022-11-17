@@ -54,4 +54,11 @@ int main(void)
 	printf("%o\n", inumber);
 	printf("%f\n", dnumber);
 	printf("%e\n", dnumber);
+
+	char character2 = 'H';
+	int num = 548;
+	printf("%5c\n", character2);
+	printf("%-5c\n", character2);
+	printf("%10d\n", num);
+	printf("%-10d\n", num);
 }
