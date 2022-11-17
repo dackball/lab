@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f6da54aa-e9a3-4603-ae04-aedcc746fac9}</ProjectGuid>
-    <RootNamespace>exam0401printf</RootNamespace>
+    <ProjectGuid>{72a29c75-685c-4310-b5c6-741faae24020}</ProjectGuid>
+    <RootNamespace>exam0501operator</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="exam-04-01-printf.c" />
+    <ClCompile Include="exam-05-01-opertor.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

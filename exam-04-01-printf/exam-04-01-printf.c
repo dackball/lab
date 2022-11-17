@@ -61,4 +61,10 @@ int main(void)
 	printf("%-5c\n", character2);
 	printf("%10d\n", num);
 	printf("%-10d\n", num);
+
+	float fnum = 1.234567;
+	printf("%10f\n", fnum);
+	printf("%-10f\n", fnum);
+	printf("%10.3f\n", fnum);
+	printf("%-10.3f\n", fnum);
 }

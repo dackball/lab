@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="exam-04-01-printf.c">
+    <ClCompile Include="exam-04-02-scanf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
