@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2ded99ab-dc4a-4ebb-b894-f009cbee580c}</ProjectGuid>
-    <RootNamespace>exam111arrayAndPointer2</RootNamespace>
+    <ProjectGuid>{a65524a9-e9bd-43ef-b820-ccee4d9117e2}</ProjectGuid>
+    <RootNamespace>exam1301string</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>exam-11-01-arrayAndPointer2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="exam-11-01-arrayAndPointer2.c" />
+    <ClCompile Include="exam-13-01-string.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

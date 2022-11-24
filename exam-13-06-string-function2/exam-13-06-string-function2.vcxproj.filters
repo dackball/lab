@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="exam-11-01-arrayAndPointer.c">
+    <ClCompile Include="exam-13-06-string-function2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
