@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{259a9c5c-d90a-40f7-9870-f1923a7d53b6}</ProjectGuid>
-    <RootNamespace>exam1603callbyvalue</RootNamespace>
+    <ProjectGuid>{bf366479-1aaf-4a9e-b2ea-5d0990550744}</ProjectGuid>
+    <RootNamespace>exam1703multiplepointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="exam-16-03-call-by-value.c" />
+    <ClCompile Include="exam-17-03-multiple-pointer.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

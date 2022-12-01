@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="exam-16-03-call-by-value.c">
+    <ClCompile Include="exam-17-03-multiple-pointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

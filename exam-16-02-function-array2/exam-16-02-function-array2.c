@@ -22,7 +22,7 @@ int readArray(int arr[], int length)
 int main(void)
 {
 	int arr[3] = { 3, 6, 9 };
-	readArray(arr, 3); // 배열의 이름 arr를 포인터 변수에 대입
+	readArray(arr); // 배열의 이름 arr를 포인터 변수에 대입
 
 	return 0;
 }
